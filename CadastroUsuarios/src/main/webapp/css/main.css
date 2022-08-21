@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+h1{
+	Color: blue;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Verdana;
+}
+.texto {
+    border: 1px inset;
+    background-color: #D3D3D3;
+    color: #000000;
+	width: 300px;
+	height: 25px;
+}
+.botao{
+	background-color: blue;
+    color: #FFFFFF;
+    border: 2px outset;
+    font-size: 20px;
+}
